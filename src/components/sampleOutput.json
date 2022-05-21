@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-Okafor",
+            "title": "Do you need another app to discover beautiful places when you travel?",
+            "description": "In the summer of 2019, Timilehin Ajiboye became intrigued with the idea of building a travel app after conversations with a circle of friends. One friend reached out to Ajiboye asking if he knew of any platform where she could find new, aesthetically pleasing…",
+            "url": "https://techcrunch.com/2021/09/28/do-you-need-another-app-to-discover-beautiful-places-when-you-travel/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/collage.jpg?w=712",
+            "publishedAt": "2021-09-28T08:07:26Z",
+            "content": "In the summer of 2019, Timilehin Ajiboye became intrigued with the idea of building a travel app after conversations with a circle of friends.\r\nOne friend reached out to Ajiboye asking if he knew of … [+7602 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Qovery raises $4 million for its cloud deployment service",
+            "description": "French startup Qovery has raised a $4 million seed funding round. The company integrates directly with your git repository and lets you deploy your code to a public cloud without having to manage the infrastructure yourself. Qovery isn’t a hosting platform. I…",
+            "url": "https://techcrunch.com/2021/09/28/qovery-raises-4-million-for-its-cloud-deployment-service/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/Romaric_1_Techstars_Demo_Day.jpg?w=600",
+            "publishedAt": "2021-09-28T07:00:43Z",
+            "content": "French startup Qovery has raised a $4 million seed funding round. The company integrates directly with your git repository and lets you deploy your code to a public cloud without having to manage the… [+2180 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Swan raises $18.7 million to provide embedded banking services",
+            "description": "French startup Swan has raised an $18.7 million Series A funding round (€16 million) led by Accel. The company provides a banking-as-a-service platform for other products and services. Embedded finance has been an important trend for the past few years in fin…",
+            "url": "https://techcrunch.com/2021/09/28/swan-raises-18-7-million-to-provide-embedded-banking-services/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Swan-team.jpeg?w=600",
+            "publishedAt": "2021-09-28T07:00:15Z",
+            "content": "French startup Swan has raised an $18.7 million Series A funding round (16 million) led by Accel. The company provides a banking-as-a-service platform for other products and services.\r\nEmbedded finan… [+2615 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Romain Dillet",
+            "title": "Dance raises another $19.4 million for its e-bike subscription service",
+            "description": "German startup Dance has raised $19.4 million in new funding (€16.5 million). The news comes just weeks after the company started rolling out its e-bike subscription service in Berlin. Eurazeo is leading today’s funding round. HV Capital and BlueYard are also…",
+            "url": "https://techcrunch.com/2021/09/27/dance-raises-another-19-4-million-for-its-e-bike-subscription-service/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/01-Dance-ebike-side-view.jpg?w=600",
+            "publishedAt": "2021-09-28T06:00:06Z",
+            "content": "German startup Dance has raised $19.4 million in new funding (16.5 million). The news comes just weeks after the company started rolling out its e-bike subscription service in Berlin.\r\nEurazeo is lea… [+1345 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon launches computer science education program Future Engineer in India",
+            "description": "Amazon said on Tuesday it is extending its computer science program Future Engineer to India. Through the program, for which Amazon partners with players such as Code.org, Amazon aims to bring CS education to underserved and underrepresented children and youn…",
+            "url": "https://techcrunch.com/2021/09/27/amazon-launches-computer-science-education-program-future-engineer-in-india/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1169387081.jpg?w=600",
+            "publishedAt": "2021-09-28T05:45:16Z",
+            "content": "Amazon said on Tuesday it is extending its computer science program Future Engineer to India. Through the program, for which Amazon partners with players such as Code.org, Amazon aims to bring CS edu… [+860 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Amazon-backed buy now, pay later platform Capital Float raises $50 million",
+            "description": "Capital Float, an Amazon-backed startup that offers its buy now, pay later service on many popular online platforms in India including that of the e-commerce firm, said on Tuesday it has raised $50 million in a new financing round following a strong growth in…",
+            "url": "https://techcrunch.com/2021/09/27/amazon-backed-buy-now-pay-later-platform-capital-float-raises-50-million/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-804519022.jpg?w=588",
+            "publishedAt": "2021-09-28T04:47:41Z",
+            "content": "Capital Float, an Amazon-backed startup that offers its buy now, pay later service on many popular online platforms in India including that of the e-commerce firm, said on Tuesday it has raised $50 m… [+1639 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Indonesian ID and data verification startup Verihubs gets $2.8M led by Insignia Venture Partners",
+            "description": "For many financial institutions in Southeast Asia, verifying new customers takes a week or two, said the founders of Verihubs. The startup cuts that time down to as little as five seconds, using AI-based identity authentication technology and APIs that let co…",
+            "url": "https://techcrunch.com/2021/09/27/indonesian-id-and-data-verification-startup-verihubs-gets-2-8m-led-by-insignia-venture-partners/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Verihubs_founders.jpg?w=533",
+            "publishedAt": "2021-09-28T04:41:36Z",
+            "content": "For many financial institutions in Southeast Asia, verifying new customers takes a week or two, said the founders of Verihubs. The startup cuts that time down to as little as five seconds, using AI-b… [+3412 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Should Mark Zuckerberg be scared of Peter Thiel?",
+            "description": "Unless you’ve been in a cave over the last week, you’ve likely read a review or some discussion about The Contrarian, a new book about billionaire investor Peter Thiel by longtime Bloomberg Businessweek features editor and tech reporter Max Chafkin. It isn’t …",
+            "url": "https://techcrunch.com/2021/09/27/should-mark-zuckerberg-be-scared-of-peter-thiel/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-27-at-6.57.38-PM.png?w=648",
+            "publishedAt": "2021-09-28T03:59:04Z",
+            "content": "Unless you’ve been in a cave over the last week, you’ve likely read a review or some discussion about The Contrarian, a new book about billionaire investor Peter Thiel by longtime Bloomberg Businessw… [+7420 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian food delivery giant Swiggy in talks to raise funds at over $10 billion valuation",
+            "description": "Indian food delivery startup Swiggy is in talks to raise over $500 million in a new financing round that could value it at over $10 billion, two sources familiar with the matter told TechCrunch. Atlanta-headquartered Invesco is in talks to lead — or co-lead —…",
+            "url": "https://techcrunch.com/2021/09/27/indian-food-delivery-giant-swiggy-in-talks-to-raise-funds-at-over-10-billion-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1208459658.jpg?w=600",
+            "publishedAt": "2021-09-28T01:00:54Z",
+            "content": "Indian food delivery startup Swiggy is in talks to raise over $500 million in a new financing round that could value it at over $10 billion, two sources familiar with the matter told TechCrunch.\r\nAtl… [+2484 chars]"
+        },
+    {
+    "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "How Ford's electrification footprint will change with planned investments",
+            "description": "Earlier this year, Ford Motor Company announced an investment of $30 billion toward electrification by 2025. On Monday, the automaker unveiled some specifics for that plan. Ford and its battery joint venture partner, SK Innovation, will be investing $11.4 bil…",
+            "url": "https://techcrunch.com/2021/09/27/how-fords-electrification-footprint-will-change-with-planned-investments/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-28-at-12.37.27-pm.png?w=621",
+            "publishedAt": "2021-09-28T00:18:37Z",
+            "content": "“Blue Oval City will become a vertically integrated ecosystem for Ford to assemble an expanded lineup of electric F-Series vehicles and will include a BlueOvalSK battery plant, key suppliers and recy… [+3004 chars]"
+        }
+    ]
+}
